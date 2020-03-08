@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zapper</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="person_details">Person Details</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_person_detail">Person Detail</string>
+
+</resources>
